@@ -166,6 +166,8 @@ body {
     gap:5px;
 }
 .link-contato {
+    display: flex;
+    align-items: center;
     text-decoration: none;
     color: #dec209;
 }
